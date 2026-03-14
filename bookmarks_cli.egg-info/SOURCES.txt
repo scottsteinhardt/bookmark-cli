@@ -1,0 +1,13 @@
+pyproject.toml
+bookmarks/__init__.py
+bookmarks/__main__.py
+bookmarks/app.py
+bookmarks/clipper.py
+bookmarks/config.py
+bookmarks/vault.py
+bookmarks_cli.egg-info/PKG-INFO
+bookmarks_cli.egg-info/SOURCES.txt
+bookmarks_cli.egg-info/dependency_links.txt
+bookmarks_cli.egg-info/entry_points.txt
+bookmarks_cli.egg-info/requires.txt
+bookmarks_cli.egg-info/top_level.txt

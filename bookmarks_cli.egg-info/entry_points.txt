@@ -1,0 +1,2 @@
+[console_scripts]
+bookmarks = bookmarks.__main__:main
