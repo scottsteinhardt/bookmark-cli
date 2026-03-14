@@ -1,4 +1,4 @@
-# bookmarks-cli
+# bookmark-cli
 
 A terminal reader for your Obsidian bookmarks vault. Browse, read, archive, tag, and save articles from the command line.
 
