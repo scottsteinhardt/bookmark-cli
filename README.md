@@ -2,6 +2,8 @@
 
 A terminal reader for your Obsidian bookmarks vault. Browse, read, archive, tag, and save articles from the command line.
 
+(bookmark-cli-demo.png)
+
 ## Requirements
 
 - Python 3.11+
